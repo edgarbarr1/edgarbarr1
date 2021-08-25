@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @edgarbarr1
+- 👀 I’m interested in Data Analytics and Machine Learning
+- 🌱 I’m currently learning Convolutional Neural Networks.
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me:
+  - email: edgarraul98@icloud.com
+  - twitter: @e_barr1
+  - linkedIn: https://www.linkedin.com/in/edgar-barr1/
