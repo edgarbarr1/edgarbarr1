@@ -6,3 +6,8 @@
   - email: edgarraul98@icloud.com
   - twitter: @e_barr1
   - linkedIn: https://www.linkedin.com/in/edgar-barr1/
+
+You can see some of my most recent projects in the links below:
+- Convolutional Neural Network:
+  - [Colon Cancer Image Classification](https://github.com/edgarbarr1/colon-cancer-cnn)
+  - [X-Ray Image Classification](https://github.com/edgarbarr1/image-classification-neural-network)
