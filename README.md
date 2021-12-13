@@ -6,6 +6,7 @@
   - email: edgarraul98@icloud.com
   - twitter: @e_barr1
   - linkedIn: https://www.linkedin.com/in/edgar-barr1/
+  - blog: https://edgar-ds.com/
 
 You can see some of my most recent projects in the links below:
 - Convolutional Neural Network:
